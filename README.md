@@ -11,6 +11,11 @@ Assignment:<br/>
 Making a call to https://publicobject.com/helloworld.txt, printing it in Logcat under "OUR_APP". Using OkHttp & Kotlin.
 
 
+**Sqlite students**<br/>
+Assignment:<br/>
+Adding a student to Sqlite database and showing them all. Using Sqlite & Kotlin.
+
+
 
 
 
